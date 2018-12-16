@@ -10,3 +10,8 @@ And we understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden. We acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
 # Project Description
+Kickstarter is a global crowdfunding platform founded in 2009. The company's stated mission is to "help bring creative projects to life". To date, Kickstarter has reportedly received more than $4 billion in pledges from 15.5 million backers to fund 257,000 creative projects, such as films, music, stage shows, comics, journalism, video games, technology and food-related projects.The purpose of this analysis is quite simply to learn more about Kickstarter. We will explore questions such as:
+
+What is Kickstarter primarily used for?
+What projects are succesful on the platform?
+What is the average amount of money raised on the platform?
